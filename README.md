@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/Sst4rr">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Sst4rr&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&rank_icon=github&text_bold=false"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=3&theme=synthwave&text_bold=false"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=4&theme=synthwave&text_bold=false"/>
 </div>
 
 ##
