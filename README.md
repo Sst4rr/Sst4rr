@@ -11,14 +11,14 @@
 ##
 
 <div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Star-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
+  <img align="center" alt="Star-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Star-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Star-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Star-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Star-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg">
   <img align="center" alt="Star-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Star-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Star-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right"  alt="Otavio-pic" height="150" src="https://cdn.discordapp.com/attachments/789899302834274315/1167001950143905833/Design_sem_nome.gif?ex=654c8a42&is=653a1542&hm=bc8cae565966a0d58dfe9dd087af9881898bb482441efb045699fa0e4d498cb5&">
+  <img align="right"  alt="Star-pic" height="150" src="https://cdn.discordapp.com/attachments/789899302834274315/1167001950143905833/Design_sem_nome.gif?ex=654c8a42&is=653a1542&hm=bc8cae565966a0d58dfe9dd087af9881898bb482441efb045699fa0e4d498cb5&">
   
 ##
 
